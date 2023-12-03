@@ -1,4 +1,5 @@
 ### Hi there 👋
+![github-header-image](https://github.com/zabloncharles/zabloncharles/assets/74889517/bd522efa-8ddf-4759-be11-15c52b68e251)
 
 <!--
 **zabloncharles/zabloncharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
